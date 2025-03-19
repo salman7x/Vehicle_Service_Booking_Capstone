@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MyFolder\\GAURI FOLDER\\Gauri ycce\\MyCodes\\.Net VSCode\\Phase 2\\CapStone\\Vehicle_Service_Booking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9D8F2F-E022-421B-84E5-CB65E88C6151}|Vehicle_Service_Booking\\Vehicle_Service_Booking.csproj|c:\\myfolder\\gauri folder\\gauri ycce\\mycodes\\.net vscode\\phase 2\\capstone\\vehicle_service_booking\\vehicle_service_booking\\models\\paymentfolder\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9D8F2F-E022-421B-84E5-CB65E88C6151}|Vehicle_Service_Booking\\Vehicle_Service_Booking.csproj|solutionrelative:vehicle_service_booking\\models\\paymentfolder\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9D8F2F-E022-421B-84E5-CB65E88C6151}|Vehicle_Service_Booking\\Vehicle_Service_Booking.csproj|c:\\myfolder\\gauri folder\\gauri ycce\\mycodes\\.net vscode\\phase 2\\capstone\\vehicle_service_booking\\vehicle_service_booking\\controllers\\bookings1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9D8F2F-E022-421B-84E5-CB65E88C6151}|Vehicle_Service_Booking\\Vehicle_Service_Booking.csproj|solutionrelative:vehicle_service_booking\\controllers\\bookings1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9D8F2F-E022-421B-84E5-CB65E88C6151}|Vehicle_Service_Booking\\Vehicle_Service_Booking.csproj|c:\\myfolder\\gauri folder\\gauri ycce\\mycodes\\.net vscode\\phase 2\\capstone\\vehicle_service_booking\\vehicle_service_booking\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9D8F2F-E022-421B-84E5-CB65E88C6151}|Vehicle_Service_Booking\\Vehicle_Service_Booking.csproj|solutionrelative:vehicle_service_booking\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9D8F2F-E022-421B-84E5-CB65E88C6151}|Vehicle_Service_Booking\\Vehicle_Service_Booking.csproj|c:\\myfolder\\gauri folder\\gauri ycce\\mycodes\\.net vscode\\phase 2\\capstone\\vehicle_service_booking\\vehicle_service_booking\\models\\vehicledbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9D8F2F-E022-421B-84E5-CB65E88C6151}|Vehicle_Service_Booking\\Vehicle_Service_Booking.csproj|solutionrelative:vehicle_service_booking\\models\\vehicledbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 610,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentsController.cs",
+              "DocumentMoniker": "C:\\MyFolder\\GAURI FOLDER\\Gauri ycce\\MyCodes\\.Net VSCode\\Phase 2\\CapStone\\Vehicle_Service_Booking\\Vehicle_Service_Booking\\Controllers\\PaymentsController.cs",
+              "RelativeDocumentMoniker": "Vehicle_Service_Booking\\Controllers\\PaymentsController.cs",
+              "ToolTip": "C:\\MyFolder\\GAURI FOLDER\\Gauri ycce\\MyCodes\\.Net VSCode\\Phase 2\\CapStone\\Vehicle_Service_Booking\\Vehicle_Service_Booking\\Controllers\\PaymentsController.cs",
+              "RelativeToolTip": "Vehicle_Service_Booking\\Controllers\\PaymentsController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAA9wEkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T05:31:25.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\MyFolder\\GAURI FOLDER\\Gauri ycce\\MyCodes\\.Net VSCode\\Phase 2\\CapStone\\Vehicle_Service_Booking\\Vehicle_Service_Booking\\Models\\PaymentFolder\\Payment.cs",
+              "RelativeDocumentMoniker": "Vehicle_Service_Booking\\Models\\PaymentFolder\\Payment.cs",
+              "ToolTip": "C:\\MyFolder\\GAURI FOLDER\\Gauri ycce\\MyCodes\\.Net VSCode\\Phase 2\\CapStone\\Vehicle_Service_Booking\\Vehicle_Service_Booking\\Models\\PaymentFolder\\Payment.cs*",
+              "RelativeToolTip": "Vehicle_Service_Booking\\Models\\PaymentFolder\\Payment.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T05:29:51.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bookings1Controller.cs",
+              "DocumentMoniker": "C:\\MyFolder\\GAURI FOLDER\\Gauri ycce\\MyCodes\\.Net VSCode\\Phase 2\\CapStone\\Vehicle_Service_Booking\\Vehicle_Service_Booking\\Controllers\\Bookings1Controller.cs",
+              "RelativeDocumentMoniker": "Vehicle_Service_Booking\\Controllers\\Bookings1Controller.cs",
+              "ToolTip": "C:\\MyFolder\\GAURI FOLDER\\Gauri ycce\\MyCodes\\.Net VSCode\\Phase 2\\CapStone\\Vehicle_Service_Booking\\Vehicle_Service_Booking\\Controllers\\Bookings1Controller.cs",
+              "RelativeToolTip": "Vehicle_Service_Booking\\Controllers\\Bookings1Controller.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwDkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T15:31:21.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VehicleDbContext.cs",
+              "DocumentMoniker": "C:\\MyFolder\\GAURI FOLDER\\Gauri ycce\\MyCodes\\.Net VSCode\\Phase 2\\CapStone\\Vehicle_Service_Booking\\Vehicle_Service_Booking\\Models\\VehicleDbContext.cs",
+              "RelativeDocumentMoniker": "Vehicle_Service_Booking\\Models\\VehicleDbContext.cs",
+              "ToolTip": "C:\\MyFolder\\GAURI FOLDER\\Gauri ycce\\MyCodes\\.Net VSCode\\Phase 2\\CapStone\\Vehicle_Service_Booking\\Vehicle_Service_Booking\\Models\\VehicleDbContext.cs",
+              "RelativeToolTip": "Vehicle_Service_Booking\\Models\\VehicleDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:00:37.443Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 27,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
